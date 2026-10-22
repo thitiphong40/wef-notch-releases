@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>wef-notch</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 22 Oct 2026 22:58:35 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.3.0
+
+wef-notch now updates itself. This is the last time you install it by hand.
+
+## Installing this version
+
+1. Quit wef-notch: point at the notch, click the bar, press the gear, then
+   **Quit wef-notch** (or right-click the notch and choose **Quit**).
+2. Download `wef-notch-0.3.0.zip` below and double-click it.
+3. Drag `wef-notch.app` into **Applications** and choose **Replace**.
+4. Open it from Applications. macOS says it can't be opened, because the app
+   isn't notarized by Apple yet: press **Done**, open **System Settings →
+   Privacy & Security**, press **Open Anyway** beside *wef-notch was blocked*,
+   confirm, and open it again. Only this once.
+
+Your Note, to-do list, files, Theme and settings stay as they were.
+
+## What's new
+
+- **Updates come to you.** The second time you open the app, it asks whether
+  it may check for updates by itself. When an update is out, Settings →
+  About says **Update available**; click it to see what's new and install.
+  The app replaces itself and opens again. macOS may ask for your Mac's
+  password once while it does.
+- **Check for Updates…** in About checks right away.
+- **Check automatically** in About turns the daily check on or off. A check
+  sends only the app's version.
+]]></description>
+            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.0/wef-notch-0.3.0.zip" length="3072317" type="application/octet-stream" sparkle:edSignature="zqrX0rlC3eJeuPuRo4gCRWAzUeSmyfaF5UfIeFjWOopMwyhPGH/6Xwiycddg6CA7ZVOwSRcwYPl4X/4jPGLSAA=="/>
+        </item>
+    </channel>
+</rss>
