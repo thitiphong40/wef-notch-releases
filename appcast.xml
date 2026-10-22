@@ -3,6 +3,25 @@
     <channel>
         <title>wef-notch</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Thu, 22 Oct 2026 23:04:44 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.3.1
+
+The first update to come through wef-notch itself. Nothing in the app
+changed: this Release only shows that updating works.
+
+If you're reading this in the update window, it worked. Install it, and the
+app opens again as 0.3.1.
+]]></description>
+            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.1/wef-notch-0.3.1.zip" length="3072314" type="application/octet-stream" sparkle:edSignature="nsukcpnb5Is3vFmI+j73GOaRpoIyht+DLVKhmz0MfSC0XyI+9KrWarmTPGTzpcK8jCpvcJZXqTuiqPjaHx9QBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.1/wef-notch4-3.delta" sparkle:deltaFrom="3" length="6070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xIYyfwnhCXY6G7xFIVA43c31CbMEXXvsbo8iXy4ODX/NOW+IqxtaWoF7vbeDee6tuF80S7Qgac93yduIYqRVAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 22 Oct 2026 22:58:35 +0700</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -35,6 +54,7 @@ Your Note, to-do list, files, Theme and settings stay as they were.
 - **Check for Updates…** in About checks right away.
 - **Check automatically** in About turns the daily check on or off. A check
   sends only the app's version.
+
 ]]></description>
             <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.0/wef-notch-0.3.0.zip" length="3072317" type="application/octet-stream" sparkle:edSignature="zqrX0rlC3eJeuPuRo4gCRWAzUeSmyfaF5UfIeFjWOopMwyhPGH/6Xwiycddg6CA7ZVOwSRcwYPl4X/4jPGLSAA=="/>
         </item>
