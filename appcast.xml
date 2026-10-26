@@ -3,6 +3,34 @@
     <channel>
         <title>wef-notch</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Mon, 26 Oct 2026 14:11:38 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.4.0
+
+**The rest of the week on the Today tab.** Once today's meetings are over,
+the tab's meetings half shows what's left of the week — tomorrow through the
+last day of your week, as your Mac counts it — each row with its day before
+the time (`Thu 10:00`, `Fri All day`). Up to six rows, then `+N more`; a click
+opens Calendar. Home, the bar and the meeting alerts still show today only.
+
+On the week's last evening, `Nothing left today` sits in whichever half has
+nothing left.
+
+**Installing for the first time?** Drag `wef-notch.app` into Applications with
+the Finder before you open it. Opened from Downloads first, macOS runs it from
+a hidden copy: it can't launch at login or update. The README's *Build and
+install* says how to put that right.
+]]></description>
+            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch-0.4.0.zip" length="3089676" type="application/octet-stream" sparkle:edSignature="Jp/3wT6KaDp5ffQPMN686XrLT0VhF+Xc0DMcMFZfEu+M8TX3AUuumx5KU83HGuL56JO1eqM2RuDgLzeLBEBsAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch5-4.delta" sparkle:deltaFrom="4" length="307934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h5k/u2wOhjB4fAeS5vuc94VrSnYawH9dA5bdkkMXUKmK143q2Gafri7PUobEE0l4NnozSWq978bOu3SwWkH9Bg=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch5-3.delta" sparkle:deltaFrom="3" length="306570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gv9ZXcBwJlyHx1kEL9gekt42jab+pWlKHhhZ3meA520vlD016pzi4k5rWiXHHbnGxCL0cSZGWflLieIOMgdzAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Thu, 22 Oct 2026 23:04:44 +0700</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -15,6 +43,7 @@ changed: this Release only shows that updating works.
 
 If you're reading this in the update window, it worked. Install it, and the
 app opens again as 0.3.1.
+
 ]]></description>
             <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.1/wef-notch-0.3.1.zip" length="3072314" type="application/octet-stream" sparkle:edSignature="nsukcpnb5Is3vFmI+j73GOaRpoIyht+DLVKhmz0MfSC0XyI+9KrWarmTPGTzpcK8jCpvcJZXqTuiqPjaHx9QBg=="/>
             <sparkle:deltas>
