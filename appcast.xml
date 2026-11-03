@@ -3,6 +3,36 @@
     <channel>
         <title>wef-notch</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Tue, 03 Nov 2026 14:40:20 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.5.0
+
+**A Theme of your own.** Settings' Theme card has a seventh swatch, **Custom**,
+in a new third row beside two fields, **Body** and **Card**. Type or paste a
+colour as hex — `#22324A`, `22324a`, either works — and the Panel switches to
+it as the last digit lands. Everything else follows from your two colours: the
+words turn light or dark by whichever reads better against both. A half-typed
+colour changes nothing, and Escape or a click outside ends editing.
+
+Custom starts in navy, a look none of the other six has. Your colours stay
+while you wear another Theme, so switching back brings them back.
+
+**Installing for the first time?** Drag `wef-notch.app` into Applications with
+the Finder before you open it. Opened from Downloads first, macOS runs it from
+a hidden copy: it can't launch at login or update. The README's *Build and
+install* says how to put that right.
+]]></description>
+            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch-0.5.0.zip" length="3150722" type="application/octet-stream" sparkle:edSignature="Uwo3jcGqlw6rKvP47V48aB1NPh7G4FrnXtCgzV8uJnP2SsDDYVVWkDLoThnd7QOmvOCqZOO5jIC/zgewCYxTAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch6-5.delta" sparkle:deltaFrom="5" length="520330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Esym6RPcIJkdrYBihZKhMuZkhbfaxLK03wSDGFKEYS9/k8ShHTrPq23i4aRTzVF7Galcv/85sHYndChlbbnVCQ=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch6-4.delta" sparkle:deltaFrom="4" length="567846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UGz28RO40fvSEG3Y9eZy4CGECX+KJz9m4lwwh/IuhLn94SQKewp/1UM79dMNSgCIjqrhtGomAwtRN9nKm/h5BA=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch6-3.delta" sparkle:deltaFrom="3" length="568798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uqqaQq2kc4OITmoqsV4jR6mnCmhfin5lXRGOUyC4QUMIdQU52e38jUxLZfyVsbmj7710SzowCDIVXU6SaToKAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Mon, 26 Oct 2026 14:11:38 +0700</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -23,6 +53,7 @@ nothing left.
 the Finder before you open it. Opened from Downloads first, macOS runs it from
 a hidden copy: it can't launch at login or update. The README's *Build and
 install* says how to put that right.
+
 ]]></description>
             <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch-0.4.0.zip" length="3089676" type="application/octet-stream" sparkle:edSignature="Jp/3wT6KaDp5ffQPMN686XrLT0VhF+Xc0DMcMFZfEu+M8TX3AUuumx5KU83HGuL56JO1eqM2RuDgLzeLBEBsAg=="/>
             <sparkle:deltas>
@@ -49,43 +80,6 @@ app opens again as 0.3.1.
             <sparkle:deltas>
                 <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.1/wef-notch4-3.delta" sparkle:deltaFrom="3" length="6070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xIYyfwnhCXY6G7xFIVA43c31CbMEXXvsbo8iXy4ODX/NOW+IqxtaWoF7vbeDee6tuF80S7Qgac93yduIYqRVAw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Thu, 22 Oct 2026 22:58:35 +0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.3.0
-
-wef-notch now updates itself. This is the last time you install it by hand.
-
-## Installing this version
-
-1. Quit wef-notch: point at the notch, click the bar, press the gear, then
-   **Quit wef-notch** (or right-click the notch and choose **Quit**).
-2. Download `wef-notch-0.3.0.zip` below and double-click it.
-3. Drag `wef-notch.app` into **Applications** and choose **Replace**.
-4. Open it from Applications. macOS says it can't be opened, because the app
-   isn't notarized by Apple yet: press **Done**, open **System Settings →
-   Privacy & Security**, press **Open Anyway** beside *wef-notch was blocked*,
-   confirm, and open it again. Only this once.
-
-Your Note, to-do list, files, Theme and settings stay as they were.
-
-## What's new
-
-- **Updates come to you.** The second time you open the app, it asks whether
-  it may check for updates by itself. When an update is out, Settings →
-  About says **Update available**; click it to see what's new and install.
-  The app replaces itself and opens again. macOS may ask for your Mac's
-  password once while it does.
-- **Check for Updates…** in About checks right away.
-- **Check automatically** in About turns the daily check on or off. A check
-  sends only the app's version.
-
-]]></description>
-            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.0/wef-notch-0.3.0.zip" length="3072317" type="application/octet-stream" sparkle:edSignature="zqrX0rlC3eJeuPuRo4gCRWAzUeSmyfaF5UfIeFjWOopMwyhPGH/6Xwiycddg6CA7ZVOwSRcwYPl4X/4jPGLSAA=="/>
         </item>
     </channel>
 </rss>
