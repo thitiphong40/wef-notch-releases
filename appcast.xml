@@ -3,6 +3,45 @@
     <channel>
         <title>wef-notch</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Tue, 10 Nov 2026 15:13:15 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.6.0
+
+**Every item within reach.** When the To-do list holds more than the card
+shows, click **+N more** to turn to the next page; the last page has
+**‹ Back** to the first. The card is back on its first page each time the
+Panel opens.
+
+**Edit an item in place.** Double-click an item's text to change it: the
+text turns into a field, all of it selected. Return saves, Escape keeps what
+was there, and a click anywhere else saves too. To tick an item, click its
+circle; a click on the text alone does nothing, so nothing moves under a
+double-click.
+
+**When you added it.** On the To-do tab each item shows when it was added,
+like `10 Nov 14:30`, beside its ×. Items added before this version show no
+time.
+
+**A full list says so.** At 20 items the field reads **List full (20)** and
+Add dims, instead of quietly doing nothing.
+
+**Installing for the first time?** Drag `wef-notch.app` into Applications with
+the Finder before you open it. Opened from Downloads first, macOS runs it from
+a hidden copy: it can't launch at login or update. The README's *Build and
+install* says how to put that right.
+]]></description>
+            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.0/wef-notch-0.6.0.zip" length="3185198" type="application/octet-stream" sparkle:edSignature="PcXEm6GGbuHgdThjqwPOnoxWAJndmQEXIw3CAcioswF4WvuYzzscbXJ4Sl5M23wBMmi2XD8KZsCNgjDuGvqDAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.0/wef-notch7-6.delta" sparkle:deltaFrom="6" length="405858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u2yKRtoKCvO85bILIqqCO6bsYXiRWexWFRd7wWSObuTsztD0e9Db/Wcov01SIwKXHrGAxnkQjQOv+STSmRVPBw=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.0/wef-notch7-5.delta" sparkle:deltaFrom="5" length="598158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1g5srs22RxPB/fvVBA7JHjIZ666Ab/UxnABTOReZw/PHAAJTOdetpsAxmWYBxuXR6dm6DD9mav7t9eODaf1kBw=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.0/wef-notch7-4.delta" sparkle:deltaFrom="4" length="642198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1sgnN8l9prg+RbecJsmPiMFj8pvAOTFz3A26iNnzM02jCxCOAv4rHAShwK2NCoNXpKYHqDFgHsqe7pA4W/wYAA=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.0/wef-notch7-3.delta" sparkle:deltaFrom="3" length="642702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s99OUqU5HoT0BVfzpe8G0+pz2CA4ggx2uspPGrNmi4TzGKcMBOAW/kCl31nfKe8EPK8Ak9NmDpSLUs5khF3eBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Tue, 03 Nov 2026 14:40:20 +0700</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -24,6 +63,7 @@ while you wear another Theme, so switching back brings them back.
 the Finder before you open it. Opened from Downloads first, macOS runs it from
 a hidden copy: it can't launch at login or update. The README's *Build and
 install* says how to put that right.
+
 ]]></description>
             <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch-0.5.0.zip" length="3150722" type="application/octet-stream" sparkle:edSignature="Uwo3jcGqlw6rKvP47V48aB1NPh7G4FrnXtCgzV8uJnP2SsDDYVVWkDLoThnd7QOmvOCqZOO5jIC/zgewCYxTAQ=="/>
             <sparkle:deltas>
@@ -59,26 +99,6 @@ install* says how to put that right.
             <sparkle:deltas>
                 <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch5-4.delta" sparkle:deltaFrom="4" length="307934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h5k/u2wOhjB4fAeS5vuc94VrSnYawH9dA5bdkkMXUKmK143q2Gafri7PUobEE0l4NnozSWq978bOu3SwWkH9Bg=="/>
                 <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch5-3.delta" sparkle:deltaFrom="3" length="306570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gv9ZXcBwJlyHx1kEL9gekt42jab+pWlKHhhZ3meA520vlD016pzi4k5rWiXHHbnGxCL0cSZGWflLieIOMgdzAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Thu, 22 Oct 2026 23:04:44 +0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.3.1
-
-The first update to come through wef-notch itself. Nothing in the app
-changed: this Release only shows that updating works.
-
-If you're reading this in the update window, it worked. Install it, and the
-app opens again as 0.3.1.
-
-]]></description>
-            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.1/wef-notch-0.3.1.zip" length="3072314" type="application/octet-stream" sparkle:edSignature="nsukcpnb5Is3vFmI+j73GOaRpoIyht+DLVKhmz0MfSC0XyI+9KrWarmTPGTzpcK8jCpvcJZXqTuiqPjaHx9QBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.3.1/wef-notch4-3.delta" sparkle:deltaFrom="3" length="6070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xIYyfwnhCXY6G7xFIVA43c31CbMEXXvsbo8iXy4ODX/NOW+IqxtaWoF7vbeDee6tuF80S7Qgac93yduIYqRVAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
