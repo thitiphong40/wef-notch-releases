@@ -3,6 +3,40 @@
     <channel>
         <title>wef-notch</title>
         <item>
+            <title>0.6.1</title>
+            <pubDate>Wed, 18 Nov 2026 12:14:58 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.6.1
+
+**A finished countdown waits for you.** When a countdown reaches zero, the
+notch opens to the bar with `Countdown · done · 25:00` and now stays that way
+until you click it, however long you were away, instead of going after four
+seconds. A click on the words opens the Timer tab; a click anywhere else on
+the bar opens Home. Starting, resetting or setting the countdown dismisses it
+too.
+
+**Other alerts still get through.** A Claude alert or a meeting about to
+start shows over it for its few seconds, then the countdown's words come
+back. A countdown that reaches zero during one of them now shows once that
+alert is done, instead of being missed.
+
+**Installing for the first time?** Drag `wef-notch.app` into Applications with
+the Finder before you open it. Opened from Downloads first, macOS runs it from
+a hidden copy: it can't launch at login or update. The README's *Build and
+install* says how to put that right.
+]]></description>
+            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.1/wef-notch-0.6.1.zip" length="3186533" type="application/octet-stream" sparkle:edSignature="+FItBB+EobXhFtzJq2h1KNyNNQPnbXs49GpjBxAnd0NcDpzwW9rxpg6OVsZx/ulVS7Sm2NbshoOqQ6zkB5LXBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.1/wef-notch8-7.delta" sparkle:deltaFrom="7" length="191046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AUWfZU+mYvepq9T2j6j+SG79qSHo99iTpnMblq44ymJx+9h+icyv0+a75oFSlTwi+S/i+V25ryTZpr+84yylAA=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.1/wef-notch8-6.delta" sparkle:deltaFrom="6" length="410018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ThfwlbCMfTg0UTRGrzVRhWgbm70yO26SN9M5oL0+MPJtkJeRD6gwAW5IYUI5GOAGU7dHpgCqYh5OburUyJeSDQ=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.1/wef-notch8-5.delta" sparkle:deltaFrom="5" length="605970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UmttIAmTVYiTLOwq4yithPOufkT98SAj5aH+1ds4s72FWMIRSfxx++gPqIYGLbcqk4UlER92QLGy/dZMYLz4Dg=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.1/wef-notch8-4.delta" sparkle:deltaFrom="4" length="645510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FR/5J9PEHeRo73iUsHlIxfjsk0JXj9/HhqQ4ADsec3PakDmzl5AJFQJlDY/u3a765LIWRfWQx0g/AV/w0TTJAw=="/>
+                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.1/wef-notch8-3.delta" sparkle:deltaFrom="3" length="645934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fokUlzG3WnIl7QEc5AwO17oW8d4uaGH8z65jeM7jJfUSzU/JE7C6pZ/eUMopdSmnPbhAO4cC5ID2Chd1qNGWAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Tue, 10 Nov 2026 15:13:15 +0700</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -32,6 +66,7 @@ Add dims, instead of quietly doing nothing.
 the Finder before you open it. Opened from Downloads first, macOS runs it from
 a hidden copy: it can't launch at login or update. The README's *Build and
 install* says how to put that right.
+
 ]]></description>
             <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.6.0/wef-notch-0.6.0.zip" length="3185198" type="application/octet-stream" sparkle:edSignature="PcXEm6GGbuHgdThjqwPOnoxWAJndmQEXIw3CAcioswF4WvuYzzscbXJ4Sl5M23wBMmi2XD8KZsCNgjDuGvqDAg=="/>
             <sparkle:deltas>
@@ -70,35 +105,6 @@ install* says how to put that right.
                 <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch6-5.delta" sparkle:deltaFrom="5" length="520330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Esym6RPcIJkdrYBihZKhMuZkhbfaxLK03wSDGFKEYS9/k8ShHTrPq23i4aRTzVF7Galcv/85sHYndChlbbnVCQ=="/>
                 <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch6-4.delta" sparkle:deltaFrom="4" length="567846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UGz28RO40fvSEG3Y9eZy4CGECX+KJz9m4lwwh/IuhLn94SQKewp/1UM79dMNSgCIjqrhtGomAwtRN9nKm/h5BA=="/>
                 <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.5.0/wef-notch6-3.delta" sparkle:deltaFrom="3" length="568798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uqqaQq2kc4OITmoqsV4jR6mnCmhfin5lXRGOUyC4QUMIdQU52e38jUxLZfyVsbmj7710SzowCDIVXU6SaToKAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Mon, 26 Oct 2026 14:11:38 +0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# wef-notch 0.4.0
-
-**The rest of the week on the Today tab.** Once today's meetings are over,
-the tab's meetings half shows what's left of the week — tomorrow through the
-last day of your week, as your Mac counts it — each row with its day before
-the time (`Thu 10:00`, `Fri All day`). Up to six rows, then `+N more`; a click
-opens Calendar. Home, the bar and the meeting alerts still show today only.
-
-On the week's last evening, `Nothing left today` sits in whichever half has
-nothing left.
-
-**Installing for the first time?** Drag `wef-notch.app` into Applications with
-the Finder before you open it. Opened from Downloads first, macOS runs it from
-a hidden copy: it can't launch at login or update. The README's *Build and
-install* says how to put that right.
-
-]]></description>
-            <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch-0.4.0.zip" length="3089676" type="application/octet-stream" sparkle:edSignature="Jp/3wT6KaDp5ffQPMN686XrLT0VhF+Xc0DMcMFZfEu+M8TX3AUuumx5KU83HGuL56JO1eqM2RuDgLzeLBEBsAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch5-4.delta" sparkle:deltaFrom="4" length="307934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h5k/u2wOhjB4fAeS5vuc94VrSnYawH9dA5bdkkMXUKmK143q2Gafri7PUobEE0l4NnozSWq978bOu3SwWkH9Bg=="/>
-                <enclosure url="https://github.com/thitiphong40/wef-notch-releases/releases/download/v0.4.0/wef-notch5-3.delta" sparkle:deltaFrom="3" length="306570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gv9ZXcBwJlyHx1kEL9gekt42jab+pWlKHhhZ3meA520vlD016pzi4k5rWiXHHbnGxCL0cSZGWflLieIOMgdzAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
